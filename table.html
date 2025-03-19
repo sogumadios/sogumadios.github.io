@@ -155,18 +155,18 @@ function makeBMSTable(info, mark, order) {
         }
 
         // 레벨
-        $("<td width='10%'>" + mark + x + "</td>").appendTo(str);
+        $("<td width='5%'>" + mark + x + "</td>").appendTo(str);
         // 유튜브
 		if(info[i].video2 != "" && info[i].video2 != null){
 			// YouTube
-			$("<td width='10%' align='center'><a href='http://www.youtube.com/watch?v=" + info[i].video2 + "' target='_blank'><img src='style/youtube.gif' border='0' alt='Youtube' /></a></td>").appendTo(str);
+			$("<td width='5%' align='center'><a href='http://www.youtube.com/watch?v=" + info[i].video2 + "' target='_blank'><img src='style/youtube.gif' border='0' alt='Youtube' /></a></td>").appendTo(str);
 		} else {
-        	$("<td width='10%'></td>").appendTo(str);
+        	$("<td width='5%'></td>").appendTo(str);
 		}
 　　　　// 평면채보
-　　　　$("<td width='10%' align='center'><a href='https://ez2pattern.kr/bms/chart?md5=" + info[i].md5 + "' target='_blank'><img src='style/ez2.gif' border='0' alt='EZ2PATTERN' /></a></td>").appendTo(str);
+　　　　$("<td width='5%' align='center'><a href='https://ez2pattern.kr/bms/chart?md5=" + info[i].md5 + "' target='_blank'><img src='style/ez2.gif' border='0' alt='EZ2PATTERN' /></a></td>").appendTo(str);
         // 곡명
-        $("<td width='40%'>" + "<a href='https://ez2pattern.kr/bms/ir/qwilight?md5=" + info[i].md5 + "' target='_blank'>" + info[i].title + "</a></td>").appendTo(str);
+        $("<td width='30%'>" + "<a href='https://ez2pattern.kr/bms/ir/qwilight?md5=" + info[i].md5 + "' target='_blank'>" + info[i].title + "</a></td>").appendTo(str);
         // 작곡가
         var astr = "";
         if(info[i].url != "" && info[i].url != null) {
@@ -191,9 +191,9 @@ function makeBMSTable(info, mark, order) {
         		astr += "<br />(" + info[i].name_pack + ")";
         	}
         }
-        $("<td width='40%'>" + astr + "</td>").appendTo(str);
+        $("<td width='30%'>" + astr + "</td>").appendTo(str);
         // 코멘트
-        $("<td width='40%'>" + info[i].comment + "</div></td>").appendTo(str);
+        $("<td width='30%'>" + info[i].comment + "</div></td>").appendTo(str);
         str.appendTo(obj);
         count++;
     }
