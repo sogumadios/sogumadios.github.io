@@ -18,8 +18,7 @@
 <a href="index.html">TOP</a><br>
 </center>
 
-
-<!--　　　　　난이도표 본체　　　　　-->
+// 난이도표 본체
 <div class="tableflame">
 <table align="center" cellspacing="1" cellpadding=2　border="0" bgcolor="#000000" id="table_int">
 </table>
@@ -64,7 +63,7 @@ function makeBMSTable(info, mark, order) {
     var count = 0;
     var obj = $("#table_int");
 
-	// ソート
+	// 정렬
 	if(order != "" && order != null){
 		// herder.json에 sort가 있으면 지정 순서 -> 제목 순서로 정렬
 		
@@ -119,14 +118,14 @@ function makeBMSTable(info, mark, order) {
 	
     // 표 지우기
     obj.html("");
-    $("<tr height='20' style='color:white;background-color:#666666'><td align='center'>LV</td><td align='center'>Youtube</td><td align='center'>평면채보</td><td align='center'>곡명</td><td align='center'>작곡가</td><td align='center'>코멘트</td></tr>").appendTo(obj);
+    $("<tr height='20' style='color:white;background-color:#666666'><td align='center'>레벨</td><td align='center'>Youtube</td><td align='center'>평면채보</td><td align='center'>곡명</td><td align='center'>작곡가</td><td align='center'>코멘트</td></tr>").appendTo(obj);
     var obj_sep = null;
     for (var i = 0; i < info.length; i++) {
         // 난이도별 구분
         if (x != info[i].level) {
             // 이전 구분자에 악보 수, 평균 밀도 추가
           	if (obj_sep != null) {
-                obj_sep.html("<td colspan='9' align='center'>" + "<b>" + mark + x + " (" + count + " 차분)</b></td>");
+                obj_sep.html("<td colspan='6' align='center'>" + "<b>" + mark + x + " (" + count + " 차분)</b></td>");
             }
             obj_sep = $("<tr class='tr_separate' id='" + mark + info[i].level + "'></tr>");
             obj_sep.appendTo(obj);
@@ -166,7 +165,7 @@ function makeBMSTable(info, mark, order) {
         	$("<td width='5%'></td>").appendTo(str);
 		}
 　　　　// 평면채보
-　　　　$("<td width='5%' align='center'><a href='https://ez2pattern.kr/bms/chart?md5=" + info[i].md5 + "' target='_blank'>♪</a></td>").appendTo(str);
+　　　　$("<td width='5%' align='center'><a href='https://ez2pattern.kr/bms/chart?md5=" + info[i].md5 + "' target='_blank'><img src='style/ez2.gif' border='0' alt='EZ2PATTERN' /></a></td>").appendTo(str);
         // 곡명
         $("<td width='25%'>" + "<a href='https://ez2pattern.kr/bms/ir/qwilight?md5=" + info[i].md5 + "' target='_blank'>" + info[i].title + "</a></td>").appendTo(str);
         // 작곡가
@@ -204,7 +203,7 @@ function makeBMSTable(info, mark, order) {
     // 마지막 구분 처리
 	// 마크가 빠져서 추가
     if (obj_sep != null) {
-        obj_sep.html("<td colspan='9' align='center'>" + "<b>" + mark + x + " (" + count + " 차분)</b></td>");
+        obj_sep.html("<td colspan='6' align='center'>" + "<b>" + mark + x + " (" + count + " 차분)</b></td>");
     }
 }
 </script>
