@@ -126,7 +126,7 @@ function makeBMSTable(info, mark, order) {
         if (x != info[i].level) {
             // 이전 구분자에 악보 수, 평균 밀도 추가
           	if (obj_sep != null) {
-                obj_sep.html("<td colspan='9' align='center'>" + "<b>" + mark + x + " (" + count + "보면)</b></td>");
+                obj_sep.html("<td colspan='9' align='center'>" + "<b>" + mark + x + " (" + count + " 차분)</b></td>");
             }
             obj_sep = $("<tr class='tr_separate' id='" + mark + info[i].level + "'></tr>");
             obj_sep.appendTo(obj);
@@ -204,7 +204,7 @@ function makeBMSTable(info, mark, order) {
     // 마지막 구분 처리
 	// 마크가 빠져서 추가
     if (obj_sep != null) {
-        obj_sep.html("<td colspan='9' align='center'>" + "<b>" + mark + x + " (" + count + "보면)</b></td>");
+        obj_sep.html("<td colspan='9' align='center'>" + "<b>" + mark + x + " (" + count + " 차분)</b></td>");
     }
 }
 </script>
