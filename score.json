@@ -1,21 +1,282 @@
-﻿
-
 [
-{"level":"1","title":"Annihilate the living","sha256":"a10193f7ae05ce839292dc716f182fda0b1cc6ac5382c2056f37e22ffba87b7d","md5":"d1253dd56bb2087d0b0d474f0d562aae","video1":"","video2":"7iAdBbjpBzM","url_diff":"http://stellawingroad.web.fc2.com/i/pms2013.html","name_diff":"あーさん (BOF2013PMS)","url":"http://www.ceena.net/view.php?id=130928232042-195010","artist":"Rocky","comment":"低速の入りが引っ掛けになっていてわかりにくい。しかしラスト前に広めの階段+二連打で削りに来るのでハードでどうにかした方がよさげ。","state":"1"},
-{"level":"1","title":"010","sha256":"","md5":"bca48fc77c05a8d85215f46ac6d7be59","video1":"","video2":"","url_diff":"http://1drv.ms/1kLgKrp","name_diff":"深海","url":"http://www.ceena.net/view.php?id=110929005410-456216","artist":"eoll (BOF2011パッケージ)","comment":"左右振りの同時押しで、速度密度はフロウなんとかに近いがこっちは垂直がそこそこ多い。曲も長め。","state":""},
-{"level":"2","title":"1024","sha256":"99ba23c227cf09cb250bee42a85896c82d7d6e37ce40192d8b7c3e4566ff2b71","md5":"06abbf52c401e0832930d23e72097a10","video1":"","video2":"","url_diff":"","name_diff":"本体に同梱","url":"http://manbow.nothing.sh/event/event.cgi?action=More_def&num=23&event=85","artist":"風鈴奏","comment":"同時押し。前半はしょっぽいが数回BPM200の8分相当の同時押しがある。ノート数も1024。","state":"4"},
-{"level":"2","title":"Unknown","sha256":"","md5":"9c16e19a9c8e4abab83eb0e8c17b15c0","video1":"","video2":"","url_diff":"http://www.jzxyst.net/public/tukiyama/unknown_ogg.zip","name_diff":"つきやま","url":"http://stairway.sakura.ne.jp/unknown_ogg.zip","artist":"東せつな","comment":"","state":"1"},
-{"level":"3","title":"-+","sha256":"","md5":"9a78d3b4b5f6f43bd24eab9314d9a852","video1":"","video2":"vnsrp4ICS44","url_diff":"","name_diff":"sugar (BOF2013PMS)","url":"http://pmsdifficulty.xxxxxxxx.jp/BOFPMS.html","artist":"daisan","comment":"残り1分あたりの発狂までは挑戦レベルではゲージは地を這うばかりだろうが、そこまでほぼ空っぽでも後半頑張ればクリアはワンチャンある。ただしラスト前の発狂には注意。","state":"3"},
-{"level":"3","title":"0831","sha256":"","md5":"b300e55b7ce7a797feba360a91e16a9e","video1":"","video2":"","url_diff":"","name_diff":"TM","url":"http://toymusical.net/","artist":"wada mizuki","comment":"早いのはラスト1ノートだけ。無理押しスレスレの32分が来たりするが前半はそれほど難しくはない。89小節から左右振り多めの8分階段が来るがDebutができるなら大丈夫だろう。夏休み最後の日の気分よりはちょっと軽いくらいのゲージの重さなので注意。","state":"4"},
-{"level":"4","title":"[LR2IR登録不可]キミとの境界線","sha256":"","md5":"bf1e699b3826689dfdc134eeb06e9180","video1":"","video2":"","url_diff":"","name_diff":"本体に同梱","url":"http://manbow.nothing.sh/event/event.cgi?action=More_def&num=26&event=80","artist":"ナナク","comment":"曲は短いが速いしトリルが法定速度超過。IRに登録できないがスライスバージョンもある。曲が気に入って差分作る人はそっちで作るといいかも。","state":"5"},
-{"level":"4","title":"Act Beloved","sha256":"","md5":"768e5f3475e6f3e68bb2e41e5c114e0c","video1":"","video2":"","url_diff":"http://drowsy.hannnari.com/index.html","name_diff":"あーさん","url":"http://www.ceena.net/view.php?id=110929005410-456216","artist":"void (BOF2011パッケージ)","comment":"低BPM16分総合。後半は16分に同時押しと切れ目が混ざるY/N系の配置なのでM31や改造竜とはまた違った趣がある。","state":""},
-{"level":"4","title":"Artemis","sha256":"","md5":"ac886f1251eb47b68dd582b64c097df7","video1":"24672122","video2":"","url_diff":"http://milky.geocities.jp/starlights_ctn/","name_diff":"cotton","url":"http://www.ceena.net/view.php?id=120929235457-966460","artist":"mono (BOF2012パッケージ)","comment":"ラストの連打が危険極まりないのでハードでどうにかしたいのだが、中盤の連打がやばい上後半も地味にいやらしいので悩む。","state":""},
-{"level":"5","title":"axs","sha256":"","md5":"0bfbeebc23834f8c91a8dbf5a402a254","video1":"","video2":"Dfamad3m7CY","url_diff":"http://nigo10sabun.web.fc2.com/","name_diff":"ニシガバチ","url":"https://mega.nz/#F!UFsB0YyB!kwwXNr3CgJq-FvL19myHcA!ENcwFKTA","artist":"DJ TECHNORCH","comment":"中盤のいやらしい連打混ざりはあまり見ない形なので注意が必要。乱で崩すのも大変かも。","state":"4"},
-{"level":"9","title":"safe_state [PMSON差分]","sha256":"89ddeb31c7cdbbb9d86884069b4250c6420315a1b018464811f27bc1ec7d3671","md5":"","video1":"","video2":"ucPQcXKKC9k","url_diff":"","name_diff":"propeller (BOFXVIPMS)","url":"https://pmsdifficulty.xxxxxxxx.jp/BOFPMS.html","artist":"Seo","comment":"","state":""},
-{"level":"12","title":"Sunset Toybox [PMSON差分]","sha256":"4fcdf6894055102ef6585f3f0985da0d66b4c942f9f94d8ee3f138735b67c3d4","md5":"dummydummydummydummydummydummydummydummydu","video1":"","video2":"CCGapPadPxM","url_diff":"","name_diff":"propeller (BOFXVIPMS)","url":"https://pmsdifficulty.xxxxxxxx.jp/BOFPMS.html","artist":"テヅカ x Aoi feat.桃雛なの","comment":"","state":""},
-{"level":"50","title":"ミルキーベリー・スウィートタイム","sha256":"","md5":"170c14e1719b5aa29993cbbc63482c2e","video1":"","video2":"lgL1ccUatEQ","url_diff":"","name_diff":"Seri (BOFU2015PMS)","url":"http://pmsdifficulty.xxxxxxxx.jp/BOFPMS.html","artist":"ぽんきち (movie :BGI/氏上つかさ)","comment":"中盤でキルミーしてくる。でも後半は本当に絶対回復するよ。もし増やせなかったら木の下に埋めて貰っても構わないよ","state":"2"},
-{"level":"99","title":"GO！GO！千年女王","sha256":"","md5":"f4b5f0542de4c6570c879d87e991850f","video1":"","video2":"","url_diff":"https://web.archive.org/web/20161230040242/https:/dl.dropboxusercontent.com/u/40341869/etc/551000.zip","name_diff":"神","url":"https://onedrive.live.com/?id=FC95A680740CA8C9%21286&cid=FC95A680740CA8C9","artist":"しらいし","comment":"最初けいおん部の関係者かと思いました。","state":""},
-{"level":"!i","title":"Triunph !i","sha256":"","md5":"9181edf7a543577b14521f7bf206d8c8","video1":"","video2":"BDUTgi8XMfc","url_diff":"","name_diff":"本体に同梱","url":"http://manbow.nothing.sh/event/event.cgi?action=More_def&num=37&event=69","artist":"rhomb","comment":"ﾃﾞﾚｰ 159LN!i","state":"6"}]
-
-
-
+  {
+    "level": "12",
+    "title": "Nightfall [8K saltless]",
+    "artist": "ginkiha",
+    "comment": "",
+    "md5": "c53eea68b77ded5176b16714b8f7344b"
+  },
+  {
+    "level": "15",
+    "title": "自強號 [8K saltless]",
+    "artist": "痛男次郎",
+    "comment": "",
+    "md5": "30192bced560c3b3a7749386458e8cf9"
+  },
+  {
+    "level": "15",
+    "title": "EOS [8K saltless]",
+    "artist": "ginkiha",
+    "comment": "",
+    "md5": "5f77989178ceb97fafd822fe5c703fc8"
+  },
+  {
+    "level": "15",
+    "title": "Fading Star [8K saltless]",
+    "artist": "ginkiha",
+    "comment": "",
+    "md5": "d0f1e1dd9de450a307a7a14f5577ea16"
+  },
+  {
+    "level": "15",
+    "title": "Nightfall [8K saltness]",
+    "artist": "ginkiha",
+    "comment": "",
+    "md5": "a6a67bc6d20aa6715b16634620ccdc65"
+  },
+  {
+    "level": "15",
+    "title": "Unshakable [8K saltless]",
+    "artist": "RiraN",
+    "comment": "",
+    "md5": "ba911e5d64b41571df29af2efa5b0d61"
+  },
+  {
+    "level": "16",
+    "title": "八つの鍵盤のためのソナタ -嬰ニ短調- [8K saltless]",
+    "artist": "AKITO",
+    "comment": "",
+    "md5": "f975e643b6d225956da2f8a57e7b4a9d"
+  },
+  {
+    "level": "16",
+    "title": "End Time [8K saltless]",
+    "artist": "Cres",
+    "comment": "",
+    "md5": "17ff2fe3bf880120364abbb7780e9e71"
+  },
+  {
+    "level": "16",
+    "title": "EOS [8K saltness]",
+    "artist": "ginkiha",
+    "comment": "",
+    "md5": "6cac76447b52047dcf76838c025f54fb"
+  },
+  {
+    "level": "16",
+    "title": "Oriens [8K saltless]",
+    "artist": "ginkiha",
+    "comment": "",
+    "md5": "00cdecbc71675a52a68d0d64dd9ed6ee"
+  },
+  {
+    "level": "16",
+    "title": "Take The Long Way Home [8K saltless]",
+    "artist": "RiraN ft. core mc",
+    "comment": "",
+    "md5": "0218e48efd7e013d02bd8a7a735eea87"
+  },
+  {
+    "level": "17",
+    "title": "桜華月 [8K saltless]",
+    "artist": "AKITO",
+    "comment": "",
+    "md5": "348e1151407ebc3e7dfab5e489d86899"
+  },
+  {
+    "level": "17",
+    "title": "Booouncing!! [8K saltless]",
+    "artist": "翡乃イスカ vs. Iriss",
+    "comment": "",
+    "md5": "9574eaa51a4edf3f850bcda983934dce"
+  },
+  {
+    "level": "17",
+    "title": "Legacy of Hatred [8K saltless]",
+    "artist": "CCNN",
+    "comment": "",
+    "md5": "615740257ea1cf8e289b94ea70814926"
+  },
+  {
+    "level": "17",
+    "title": "Love & Justice [8K saltless]",
+    "artist": "フロン / ラズベリル",
+    "comment": "",
+    "md5": "f385a433d2942324a70845e9f7f4f6b5"
+  },
+  {
+    "level": "17",
+    "title": "Storm Rider [8K saltless]",
+    "artist": "CCNN",
+    "comment": "",
+    "md5": "9a0be8db66c05f07f5e988f79db5667e"
+  },
+  {
+    "level": "17",
+    "title": "Unshakable [8K saltness]",
+    "artist": "RiraN",
+    "comment": "",
+    "md5": "9475a890a8f0949fedd06fbee6df8ea0"
+  },
+  {
+    "level": "17",
+    "title": "ステキナミライ [8K saltless]",
+    "artist": "カラフル・サウンズ・ポート",
+    "comment": "",
+    "md5": "4078dfcd3e4a160ff9bd86b4b8c587b1"
+  },
+  {
+    "level": "18",
+    "title": "自強號 [8K saltness]",
+    "artist": "痛男次郎",
+    "comment": "",
+    "md5": "8abce81a64d38d8976985d2a9a672754"
+  },
+  {
+    "level": "18",
+    "title": "八つの鍵盤のためのソナタ -嬰ニ短調- [8K saltness]",
+    "artist": "AKITO",
+    "comment": "",
+    "md5": "80bc951e76aef2a7fa8ee98176e71a59"
+  },
+  {
+    "level": "18",
+    "title": "Break My Hellfire [8K saltless]",
+    "artist": "numuto feat. ROSE AI",
+    "comment": "",
+    "md5": "bd22e1effd16c0163ec2c99e159647b5"
+  },
+  {
+    "level": "18",
+    "title": "Exit [8K saltless]",
+    "artist": "Transin",
+    "comment": "",
+    "md5": "dd2045b2afe4a93be508d1b45a458d2c"
+  },
+  {
+    "level": "18",
+    "title": "Fading Star [8K saltness]",
+    "artist": "ginkiha",
+    "comment": "",
+    "md5": "c9829431e066b229003a16798cc17539"
+  },
+  {
+    "level": "18",
+    "title": "Fellhound (Original Mix) [8K saltless]",
+    "artist": "Transin",
+    "comment": "",
+    "md5": "71f05f50cbc1cd53a94f856bb7d1c665"
+  },
+  {
+    "level": "18",
+    "title": "Imperishable Night 2006 [8K saltless]",
+    "artist": "篠螺悠那 feat. 鯛の小骨",
+    "comment": "",
+    "md5": "0e51b4acdddfba5d1b83a3d6effcb780"
+  },
+  {
+    "level": "18",
+    "title": "Legacy of Hatred [8K saltness]",
+    "artist": "CCNN",
+    "comment": "",
+    "md5": "f0bc76401d4f7a708993211600753179"
+  },
+  {
+    "level": "18",
+    "title": "Oriens [8K saltness]",
+    "artist": "ginkiha",
+    "comment": "",
+    "md5": "212c78f2bb27d10c95592add25943683"
+  },
+  {
+    "level": "18",
+    "title": "Take The Long Way Home [8K saltness]",
+    "artist": "RiraN ft. core mc",
+    "comment": "",
+    "md5": "f69db617cd8ceb7e5ea263f4f0ff95e7"
+  },
+  {
+    "level": "18",
+    "title": "Unrequited (gospel trance) [8K saltless]",
+    "artist": "CCNN",
+    "comment": "",
+    "md5": "7fee2d77f599a0eb4baa5d2dced841e3"
+  },
+  {
+    "level": "19",
+    "title": "Fellhound (Original Mix) [8K saltness]",
+    "artist": "Transin",
+    "comment": "",
+    "md5": "9c2b7472c4edf8818254173e84032767"
+  },
+  {
+    "level": "19",
+    "title": "Storm Rider [8K saltness]",
+    "artist": "CCNN",
+    "comment": "",
+    "md5": "512617618143c0145ede13ea3f27106c"
+  },
+  {
+    "level": "19",
+    "title": "Unrequited (gospel trance) [8K saltness]",
+    "artist": "CCNN",
+    "comment": "",
+    "md5": "55829754de4e815a71b2c9f3170694e3"
+  },
+  {
+    "level": "20",
+    "title": "桜華月 [8K saltness]",
+    "artist": "AKITO",
+    "comment": "",
+    "md5": "82e54fd23a9496532b676ec80cf87140"
+  },
+  {
+    "level": "20",
+    "title": "Booouncing!! [8K saltness]",
+    "artist": "翡乃イスカ vs. Iriss",
+    "comment": "",
+    "md5": "511c6877cf8e7da938829d6c0d04bd06"
+  },
+  {
+    "level": "20",
+    "title": "Break My Hellfire [8K saltness]",
+    "artist": "numuto feat. ROSE AI",
+    "comment": "",
+    "md5": "382d167fe53ab5febfa71e3cfecc4735"
+  },
+  {
+    "level": "20",
+    "title": "Exit [8K saltness]",
+    "artist": "Transin",
+    "comment": "",
+    "md5": "01532ae1261c7d16abe1c4d4afb33a20"
+  },
+  {
+    "level": "21",
+    "title": "End Time [8K saltness]",
+    "artist": "Cres",
+    "comment": "",
+    "md5": "fa2253824b0004573c743725e1e24824"
+  },
+  {
+    "level": "21",
+    "title": "Imperishable Night 2006 [8K saltness]",
+    "artist": "篠螺悠那 feat. 鯛の小骨",
+    "comment": "",
+    "md5": "3df0b8ce1c926b2d9b87b21f057ad90b"
+  },
+  {
+    "level": "21",
+    "title": "Love & Justice [8K saltness]",
+    "artist": "フロン / ラズベリル",
+    "comment": "",
+    "md5": "de0166075596906f67b674feb6ca5838"
+  },
+  {
+    "level": "21",
+    "title": "ステキナミライ [8K saltness]",
+    "artist": "カラフル・サウンズ・ポート",
+    "comment": "",
+    "md5": "a67b78cf3503917261b4c2012f98f108"
+  }
+]
