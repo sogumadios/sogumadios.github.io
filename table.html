@@ -119,7 +119,7 @@ function makeBMSTable(info, mark, order) {
 	
     // 표 지우기
     obj.html("");
-    $("<tr height='20' style='color:white;background-color:#666666'><td align='center'>LV</td><td align='center'>동영상</td><td align='center'>보면</td><td colspan='2' align='center'>beatoraja IR</td><td align='center'>곡명</td><td align='center'>본체</td><td align='center'>차분</td><td align='center'>코멘트</td></tr>").appendTo(obj);
+    $("<tr height='20' style='color:white;background-color:#666666'><td align='center'>LV</td><td align='center'>Youtube</td><td align='center'>평면채보</td><td align='center'>곡명</td><td align='center'>작곡가</td><td align='center'>차분</td><td align='center'>코멘트</td></tr>").appendTo(obj);
     var obj_sep = null;
     for (var i = 0; i < info.length; i++) {
         // 난이도별 구분
@@ -156,33 +156,20 @@ function makeBMSTable(info, mark, order) {
 
         }
 
-        // 레벨 표기
-        $("<td width='6%'>" + mark + x + "</td>").appendTo(str);
-        // 동영상
-		if(info[i].video1 != "" && info[i].video1 != null){
-			// ニコニコ
-			$("<td width='1%' align='center'><a href='http://www.nicovideo.jp/watch/sm" + info[i].video1 + "' target='_blank'><img src='style/nico.gif' border='0' alt='ニコニコ동영상' /></a></td>").appendTo(str);
-		} else if(info[i].video2 != "" && info[i].video2 != null){
+        // 레벨
+        $("<td width='15%'>" + mark + x + "</td>").appendTo(str);
+        // Youtube
+		if(info[i].video2 != "" && info[i].video2 != null){
 			// YouTube
 			$("<td width='1%' align='center'><a href='http://www.youtube.com/watch?v=" + info[i].video2 + "' target='_blank'><img src='style/youtube.gif' border='0' alt='Youtube' /></a></td>").appendTo(str);
-		} else if(info[i].video3 != "" && info[i].video3 != null){
-			// vimeo
-			$("<td width='1%' align='center'><a href='http://vimeo.com/" + info[i].video3 + "' target='_blank'><img src='style/vimeo.gif' border='0' alt='vimeo' /></a></td>").appendTo(str);
 		} else {
         	$("<td width='1%'></td>").appendTo(str);
 		}
-　　　　// 악보 이미지
-　　　　$("<td width='1%' align='center'><a href='https://bms-score-viewer.pages.dev/view?md5=" + info[i].md5 + "' target='_blank'>♪</a></td>").appendTo(str);
-
-　　　　// Mocha Repository
-　　　　$("<td width='1%' align='center'><a href='https://mocha-repository.info/song.php?sha256=" + info[i].sha256 + "' target='_blank'><img src='/style/mochair_logo.gif' border='0' alt='Mocha Repository' /></a></td>").appendTo(str);
-
-　　　　// MinIR
-　　　　$("<td width='1%' align='center'><a href='https://www.gaftalk.com/minir/#/viewer/song/" + info[i].sha256 + "/0' target='_blank'><img src='/style/minir_logo.gif' border='0' alt='MinIR' /></a></td>").appendTo(str); <!-- /0 を /1 /2 に変更すると CN,HCN のIRページにリンクされます -->
-
+　　　　// 평면채보
+　　　　$("<td width='10%' align='center'><a href='https://ez2pattern.kr/bms/chart?md5=" + info[i].md5 + "' target='_blank'>♪</a></td>").appendTo(str);
         // 곡명
-        $("<td width='20%'>" + "<a href='http://www.dream-pro.info/~lavalse/LR2IR/search.cgi?mode=ranking&bmsmd5=" + info[i].md5 + "' target='_blank'>" + info[i].title + "</a></td>").appendTo(str);
-        // アーティスト
+        $("<td width='25%'>" + "<a href='https://ez2pattern.kr/bms/ir/qwilight?md5=" + info[i].md5 + "' target='_blank'>" + info[i].title + "</a></td>").appendTo(str);
+        // 작곡가
         var astr = "";
         if(info[i].url != "" && info[i].url != null) {
         	if(info[i].artist != "" && info[i].artist != null) {
@@ -206,21 +193,7 @@ function makeBMSTable(info, mark, order) {
         		astr += "<br />(" + info[i].name_pack + ")";
         	}
         }
-        $("<td width='20%'>" + astr + "</td>").appendTo(str);
-        // 차분
-        if(info[i].url_diff != "" && info[i].url_diff != null) {
-        	if(info[i].name_diff != "" && info[i].name_diff != null) {
-	        $("<td width='15%'><a href='" + info[i].url_diff + "'>" + info[i].name_diff + "</a></td>").appendTo(str);
-        	} else {
-	        $("<td width='15%'><a href='" + info[i].url_diff + "'>" + info[i].url_diff + "</a></td>").appendTo(str);
-        	}
-        } else {
-        	if(info[i].name_diff != "" && info[i].name_diff != null) {
-	        $("<td width='15%'>" + info[i].name_diff + "</td>").appendTo(str);
-        	} else {
-	        $("<td width='15%'></td>").appendTo(str);
-        	}
-        }
+        $("<td width='25%'>" + astr + "</td>").appendTo(str);
         // 코멘트
         $("<td width='25%'>" + info[i].comment + "</div></td>").appendTo(str);
         str.appendTo(obj);
