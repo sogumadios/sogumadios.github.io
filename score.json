@@ -95,14 +95,14 @@
     "title": "Legacy of Hatred [8K saltless]",
     "artist": "CCNN",
     "comment": "",
-    "md5": "615740257ea1cf8e289b94ea70814926"
+    "md5": "21ad3fe35344d69683b61b1001d93894"
   },
   {
     "level": "17",
     "title": "Love & Justice [8K saltless]",
     "artist": "フロン / ラズベリル",
     "comment": "",
-    "md5": "f385a433d2942324a70845e9f7f4f6b5"
+    "md5": "d94368b2e5ebd78f21850814615f6971"
   },
   {
     "level": "17",
@@ -278,5 +278,19 @@
     "artist": "カラフル・サウンズ・ポート",
     "comment": "",
     "md5": "a67b78cf3503917261b4c2012f98f108"
+  }
+  {
+    "level": "17",
+    "title": "Altros [8K saltless]",
+    "artist": "ARForest",
+    "comment": "",
+    "md5": "a4383614f7c6e303df61376bd9f6e0db"
+  }
+  {
+    "level": "19",
+    "title": "Altros [8K saltness]",
+    "artist": "ARForest",
+    "comment": "",
+    "md5": "8319547a02e7fb88ea446375cda0b7ed"
   }
 ]
