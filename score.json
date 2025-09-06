@@ -3,14 +3,14 @@
     "level": "8",
     "title": "Rainy Heart [8K saltless]",
     "artist": "dai",
-    "comment": "1.1",
+    "comment": "1.01",
     "md5": "245daab1f20469e4b4ff8baffffc0f0f"
   },
   {
     "level": "9",
     "title": "beyond [8K saltless]",
     "artist": "Lime",
-    "comment": "1.1",
+    "comment": "1.01",
     "md5": "188efa3769f10d61f8ed89ffe88ef95d"
   },
   {
@@ -24,14 +24,14 @@
     "level": "10",
     "title": "Op.10 No.6 [8K saltless]",
     "artist": "Frederic Francois Chopin",
-    "comment": "1.1",
+    "comment": "1.01",
     "md5": "97565ea6b2b0e390a388541f8f49eb4c"
   },
   {
     "level": "10",
     "title": "Rainy Heart [8K saltness]",
     "artist": "dai",
-    "comment": "1.1",
+    "comment": "1.01",
     "md5": "0eae0ba9227e22d20810fab11a85615b"
   },
   {
@@ -59,7 +59,7 @@
     "level": "13",
     "title": "beyond [8K saltness]",
     "artist": "Lime",
-    "comment": "1.1",
+    "comment": "1.01",
     "md5": "ef9f97b2004018635226b12cffd80f28"
   },
   {
@@ -80,7 +80,7 @@
     "level": "13",
     "title": "Op.10 No.3 [8K saltless]",
     "artist": "Frederic Francois Chopin",
-    "comment": "1.1",
+    "comment": "1.01",
     "md5": "d75514093db724396879da9a0e289fa2"
   },
   {
@@ -120,10 +120,31 @@
   },
   {
     "level": "15",
+    "title": "Babylon [8K saltless]",
+    "artist": "EXCALIpUR",
+    "comment": "1.02",
+    "md5": "fe765669939c32b519f1970e4cce4dfd"
+  },
+  {
+    "level": "15",
     "title": "Beyond [8K saltless]",
     "artist": "Lime",
-    "comment": "1.1",
+    "comment": "1.01",
     "md5": "b4b401216992b12c9124dd880dd179ec"
+  },
+  {
+    "level": "15",
+    "title": "Bird Sprite (EuphoricTrance Remix) [8K saltless]",
+    "artist": "syatten remixed by 小早川 凛子",
+    "comment": "1.02",
+    "md5": "ef59cd5ec9b33a70a15232cfd3178580"
+  },
+  {
+    "level": "15",
+    "title": "Dream Rocket* [8K saltless]",
+    "artist": "Junk",
+    "comment": "1.02",
+    "md5": "62f313c016021c564e5066b881da628c"
   },
   {
     "level": "15",
@@ -136,15 +157,22 @@
     "level": "15",
     "title": "Op.10 No.1 [8K saltless]",
     "artist": "Frederic Francois Chopin",
-    "comment": "1.1",
+    "comment": "1.01",
     "md5": "3a90616646242cfa5d64fcdaec8f0904"
   },
   {
     "level": "15",
     "title": "Op.10 No.5 [8K saltless]",
     "artist": "Frederic Francois Chopin",
-    "comment": "1.1",
+    "comment": "1.01",
     "md5": "f5c035dc8f587c4bb03af31fb1f77fed"
+  },
+  {
+    "level": "15",
+    "title": "Ordeal [8K saltless]",
+    "artist": "void",
+    "comment": "1.02",
+    "md5": "99d4f7c9b641f4979f87929916ee31f3"
   },
   {
     "level": "15",
@@ -211,10 +239,31 @@
   },
   {
     "level": "16",
+    "title": "Aihana(Radio Edit) [8K saltless]",
+    "artist": "高嶺　愛花",
+    "comment": "1.02",
+    "md5": "9fc93aa29b422a51710c0660a8e62a4e"
+  },
+  {
+    "level": "16",
+    "title": "Aragami [8K saltless]",
+    "artist": "xi",
+    "comment": "1.02",
+    "md5": "15ab70f0c00e4ba40c13e885e2163cde"
+  },
+  {
+    "level": "16",
     "title": "Booouncing!! [8K saltless]",
     "artist": "翡乃イスカ vs. Iriss",
     "comment": "0.7",
     "md5": "9574eaa51a4edf3f850bcda983934dce"
+  },
+  {
+    "level": "16",
+    "title": "Cross breed [8K saltless]",
+    "artist": "sun3 vs EXCALIpUR",
+    "comment": "1.02",
+    "md5": "17c6c8d65e1f26e9199a2e9ab7ecf59d"
   },
   {
     "level": "16",
@@ -260,6 +309,13 @@
   },
   {
     "level": "16",
+    "title": "Messier 333 [8K saltless]",
+    "artist": "sun3",
+    "comment": "1.02",
+    "md5": "b12d135e0185f4345bb3b2e0a6b9f09c"
+  },
+  {
+    "level": "16",
     "title": "Odin [8K saltless]",
     "artist": "しらいし",
     "comment": "1.0",
@@ -269,14 +325,14 @@
     "level": "16",
     "title": "Op.10 No.2 [8K saltless]",
     "artist": "Frederic Francois Chopin",
-    "comment": "1.1",
+    "comment": "1.01",
     "md5": "530f704a3126afe0da0cf13415fa203a"
   },
   {
     "level": "16",
     "title": "Op.10 No.4 [8K saltless]",
     "artist": "Frederic Francois Chopin",
-    "comment": "1.1",
+    "comment": "1.01",
     "md5": "dbe941097a5e1e448840b823c83dffe5"
   },
   {
@@ -285,6 +341,13 @@
     "artist": "ginkiha",
     "comment": "0.7",
     "md5": "00cdecbc71675a52a68d0d64dd9ed6ee"
+  },
+  {
+    "level": "16",
+    "title": "The Ray of Sunlight [8K saltless]",
+    "artist": "P*Light",
+    "comment": "1.02",
+    "md5": "32a8759b1fc5fc306c413b1beb5501cb"
   },
   {
     "level": "16",
@@ -337,6 +400,13 @@
   },
   {
     "level": "17",
+    "title": "Bird Sprite (EuphoricTrance Remix) [8K saltness]",
+    "artist": "syatten remixed by 小早川 凛子",
+    "comment": "1.02",
+    "md5": "2f0572e92bfab0b1a56aafb6116c0493"
+  },
+  {
+    "level": "17",
     "title": "Exit [8K saltless]",
     "artist": "Transin",
     "comment": "0.6",
@@ -374,7 +444,7 @@
     "level": "17",
     "title": "Op.10 No.3 [8K saltness]",
     "artist": "Frederic Francois Chopin",
-    "comment": "1.1",
+    "comment": "1.01",
     "md5": "2735e33de06f91e0e13dce134d19dd41"
   },
   {
@@ -423,7 +493,7 @@
     "level": "17",
     "title": "The Last Page [8K saltless]",
     "artist": "ARForest",
-    "comment": "1.1",
+    "comment": "1.01",
     "md5": "99d9fb89025b9dbeebcfd458ee3c92af"
   },
   {
@@ -449,6 +519,13 @@
   },
   {
     "level": "17",
+    "title": "ZENITHALIZE [8K saltless]",
+    "artist": "姉ヶ崎 寧々",
+    "comment": "1.02",
+    "md5": "e42af9ff465776dc6053ab531dce39ac"
+  },
+  {
+    "level": "17",
     "title": "ステキナミライ [8K saltless]",
     "artist": "カラフル・サウンズ・ポート",
     "comment": "0.6",
@@ -456,16 +533,23 @@
   },
   {
     "level": "18",
+    "title": "Aihana(Radio Edit) [8K saltness]",
+    "artist": "高嶺　愛花",
+    "comment": "1.02",
+    "md5": "b81d85313805c47117357c0272f7e860"
+  },
+  {
+    "level": "18",
     "title": "BEYOND [8K saltless]",
     "artist": "Lime",
-    "comment": "1.1",
+    "comment": "1.01",
     "md5": "dfe14c1c3b80d5a4cb6a5e430dbc5461"
   },
   {
     "level": "18",
     "title": "Beyond [8K saltness]",
     "artist": "Lime",
-    "comment": "1.1",
+    "comment": "1.01",
     "md5": "ecc4125e6539f633d5177534fc619187"
   },
   {
@@ -481,6 +565,13 @@
     "artist": "Lime",
     "comment": "0.9",
     "md5": "3aec5cf1d6d79f88511941fa9fad9e1f"
+  },
+  {
+    "level": "18",
+    "title": "Dream Rocket* [8K saltness]",
+    "artist": "Junk",
+    "comment": "1.02",
+    "md5": "456e35aa636447fef755d7ae18368a25"
   },
   {
     "level": "18",
@@ -535,8 +626,15 @@
     "level": "18",
     "title": "Op.10 No.1 [8K saltness]",
     "artist": "Frederic Francois Chopin",
-    "comment": "1.1",
+    "comment": "1.01",
     "md5": "59b2794c40cca0806f76f238291e61c2"
+  },
+  {
+    "level": "18",
+    "title": "Ordeal [8K saltness]",
+    "artist": "void",
+    "comment": "1.02",
+    "md5": "3b99dc6b87ba0093170be01d173fc62d"
   },
   {
     "level": "18",
@@ -624,6 +722,13 @@
   },
   {
     "level": "19",
+    "title": "Babylon [8K saltness]",
+    "artist": "EXCALIpUR",
+    "comment": "1.02",
+    "md5": "e78eb155173fdf793ee7cdedb800eee2"
+  },
+  {
+    "level": "19",
     "title": "Booouncing!! [8K saltness]",
     "artist": "翡乃イスカ vs. Iriss",
     "comment": "0.7",
@@ -654,7 +759,7 @@
     "level": "19",
     "title": "Op.10 No.6 [8K saltness]",
     "artist": "Frederic Francois Chopin",
-    "comment": "1.1",
+    "comment": "1.01",
     "md5": "033232eb2dce5618a7467905b4f00b97"
   },
   {
@@ -698,6 +803,13 @@
     "artist": "numuto feat. ROSE AI",
     "comment": "0.7",
     "md5": "382d167fe53ab5febfa71e3cfecc4735"
+  },
+  {
+    "level": "20",
+    "title": "Cross breed [8K saltness]",
+    "artist": "sun3 vs EXCALIpUR",
+    "comment": "1.02",
+    "md5": "94ff3048aae67282d7f007833fba36a2"
   },
   {
     "level": "20",
@@ -745,15 +857,22 @@
     "level": "20",
     "title": "Op.10 No.2 [8K saltness]",
     "artist": "Frederic Francois Chopin",
-    "comment": "1.1",
+    "comment": "1.01",
     "md5": "7b8bf12eed83cd7e31b782d54bbae686"
   },
   {
     "level": "20",
     "title": "The Last Page [8K saltness]",
     "artist": "ARForest",
-    "comment": "1.1",
+    "comment": "1.01",
     "md5": "04f9d89b5205a7fcf8bb4b2a8af730d8"
+  },
+  {
+    "level": "20",
+    "title": "The Ray of Sunlight [8K saltness]",
+    "artist": "P*Light",
+    "comment": "1.02",
+    "md5": "6e5efd57d2e0068c50b8bf72c44f0a9c"
   },
   {
     "level": "20",
@@ -813,16 +932,23 @@
   },
   {
     "level": "21",
+    "title": "Messier 333 [8K saltness]",
+    "artist": "sun3",
+    "comment": "1.02",
+    "md5": "c008fb729abcb95d8882e927ff964192"
+  },
+  {
+    "level": "21",
     "title": "Op.10 No.4 [8K saltness]",
     "artist": "Frederic Francois Chopin",
-    "comment": "1.1",
+    "comment": "1.01",
     "md5": "1afc3611bd6538917f9a0c79304612d3"
   },
   {
     "level": "21",
     "title": "Op.10 No.5 [8K saltness]",
     "artist": "Frederic Francois Chopin",
-    "comment": "1.1",
+    "comment": "1.01",
     "md5": "83c3ee98731ec4b85d2f5935fd062f19"
   },
   {
@@ -834,6 +960,13 @@
   },
   {
     "level": "21",
+    "title": "ZENITHALIZE [8K saltness]",
+    "artist": "姉ヶ崎 寧々",
+    "comment": "1.02",
+    "md5": "4dae0c846a4d6191635bd6884d36d9ba"
+  },
+  {
+    "level": "21",
     "title": "ステキナミライ [8K saltness]",
     "artist": "カラフル・サウンズ・ポート",
     "comment": "0.6",
@@ -841,9 +974,16 @@
   },
   {
     "level": "22",
+    "title": "Aragami [8K saltness]",
+    "artist": "xi",
+    "comment": "1.02",
+    "md5": "ef4a7d237e76ba1cb574b987bacd9b0a"
+  },
+  {
+    "level": "22",
     "title": "BEYOND [8K saltness]",
     "artist": "Lime",
-    "comment": "1.1",
+    "comment": "1.01",
     "md5": "3e6ffd0a6679c88a6e1db0ff4d3e6148"
   },
   {
